@@ -1,2 +1,2 @@
-# sum-of-positive-nnumbers
-C++ program to calculate sum of positive numbers
+# Area of different shapes
+C++ program to calculate and display area of different shapes
